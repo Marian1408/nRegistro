@@ -32,7 +32,7 @@
         <img class="input-icon" src="images/password.svg" alt="">
     </div>
     <div class="input-wrapper">
-        <input type="email" name="Email" placeholder=" Email ">
+        <input type="email" placeholder=" Email " name="Email">
         <img class="input-icon" src="images/email.svg" alt="">
     </div>
     <input class="btn" type="submit" name="registar" value="ENVIAR">
